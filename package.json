@@ -4,8 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"npm start": "NODE_ENV = production node server",
-		"npm run dev": "nodemon server"
+		"start": "NODE_ENV = production node server",
+		"dev": "nodemon server"
 	},
 	"repository": {
 		"type": "git",
